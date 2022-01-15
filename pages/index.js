@@ -13,17 +13,17 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-         'Welcome to my homepage!'
+         Welcome to my homepage!
         </h1>
 
         <p className={styles.description}>
-          'I'm Jiho!'
+          I'm Jiho!
           <code className={styles.code}>Hi!</code>
         </p>
 
         <div className={styles.grid}>
           <a href="https://my-first-website-peach.vercel.app/" className={styles.card}>
-            <h2>'Hello There!' &rarr;</h2>
+            <h2>Hello There! &rarr;</h2>
             <p>Visit my first and simple website.</p>
           </a>
 
@@ -46,7 +46,7 @@ export default function Home() {
           >
             <h2>Launch &rarr;</h2>
             <p>
-              'Launch your website by vercel!'
+              Launch your website by vercel!
             </p>
           </a>
         </div>
