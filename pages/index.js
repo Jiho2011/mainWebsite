@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          I'm Jiho!
+          {"I'm Jiho!"}
           <code className={styles.code}>Hi!</code>
         </p>
 
