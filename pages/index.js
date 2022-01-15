@@ -37,7 +37,7 @@ export default function Home() {
             className={styles.card}
           >
             <h2>Community hub &rarr;</h2>
-            <p>Discover Github for you.</p>
+            <p>Discover Github for yours.</p>
           </a>
 
           <a
