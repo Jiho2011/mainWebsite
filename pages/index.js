@@ -49,16 +49,24 @@ export default function Home() {
               Launch your website by vercel!
             </p>
           </a>
+          <a href="https://www.youtube.com/channel/UCYe7HWyG-6jTiVDuUyLTyWA" className={styles.card}>
+            <h2>Youtube &rarr;</h2>
+            <p>Please visit and subscribe my youtube channel!</p>
+          </a>
+          <a href="https://discord.com/channels/@me" className={styles.card}>
+            <h2>Discord &rarr;</h2>
+            <p>My ID is Jihourii#4113! Add friend if you want to, or DM me</p>
+          </a>
         </div>
       </main>
 
       <footer className={styles.footer}>
         <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+          href="https://www.twin-kle.com/users/jihoTheCat"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by Jiho
+          Powered by JihoTheCat
         </a>
       </footer>
     </div>
